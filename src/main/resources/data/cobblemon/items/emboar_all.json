@@ -1,1 +1,13 @@
-
+{
+  "id": "cosmeticoviltrum:emboar_all",
+  "name": "Emboar All",
+  "description": "Aplica a skin cosmética Viltrum na linha evolutiva do Emboar.",
+  "category": "cosmetic",
+  "interactions": [
+    {
+      "type": "aspect_toggle",
+      "aspect": "emboar_cosmetic",
+      "target": ["tepig", "pignite", "emboar"]
+    }
+  ]
+}
