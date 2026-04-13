@@ -1,4 +1,5 @@
 {
   "target": "cobblemon:emboar",
-  "features": ["emboar_cosmetic"]
+  "features": ["emboar_cosmetic"],
+  "cosmeticItem": "cosmeticoviltrum:emboar_all"
 }
