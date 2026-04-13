@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "id": "cosmeticoviltrum",
+  "version": "${version}",
+  "name": "Cosmético: Viltrum",
+  "description": "Adiciona o item 'Emboar All' para aplicar skins cosméticas na linha evolutiva do Emboar, incluindo Mega Emboar.",
+  "authors": ["Você"],
+  "license": "MIT",
+  "environment": "*",
+  "entrypoints": {
+    "main": ["com.seuskin.cobblemonmod.CosmeticoViltrum"]
+  },
+  "mixins": [],
+  "depends": {
+    "fabricloader": ">=0.16.5",
+    "fabric-api": "*",
+    "minecraft": "~1.21.1",
+    "cobblemon": "*"
+  }
+}

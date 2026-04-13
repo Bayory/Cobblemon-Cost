@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "cosmeticoviltrum:item/emboar_all"
+  }
+}

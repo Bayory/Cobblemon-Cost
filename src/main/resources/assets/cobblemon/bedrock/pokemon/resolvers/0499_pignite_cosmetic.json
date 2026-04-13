@@ -1,0 +1,10 @@
+{
+  "species": "cobblemon:pignite",
+  "order": 1,
+  "variations": [
+    {
+      "aspects": ["emboar_cosmetic"],
+      "texture": "cobblemon:textures/pokemon/0499_pignite/pignite_cosmetic.png"
+    }
+  ]
+}

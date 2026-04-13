@@ -1,0 +1,14 @@
+{
+  "species": "cobblemon:emboar",
+  "order": 1,
+  "variations": [
+    {
+      "aspects": ["emboar_cosmetic"],
+      "texture": "cobblemon:textures/pokemon/0500_emboar/emboar_cosmetic.png"
+    },
+    {
+      "aspects": ["emboar_cosmetic", "mega"],
+      "texture": "cobblemon:textures/pokemon/0500_emboar/mega_emboar_cosmetic.png"
+    }
+  ]
+}
