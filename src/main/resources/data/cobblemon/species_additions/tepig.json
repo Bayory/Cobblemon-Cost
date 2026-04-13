@@ -1,4 +1,5 @@
 {
-  "target": "cobblemon:tepig",
-  "features": ["emboar_cosmetic"]
+  "target": "cobblemon:pignite",
+  "features": ["emboar_cosmetic"],
+  "cosmeticItem": "cosmeticoviltrum:emboar_all"
 }
