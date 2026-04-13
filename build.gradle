@@ -13,7 +13,12 @@ base {
 repositories {
     mavenCentral()
     maven { url "https://maven.fabricmc.net/" }
-    maven { url "https://cursemaven.com" }
+    maven { url "https://maven.impactdev.net/repository/development/" }
+    maven {
+        url "https://cursemaven.com"
+        content { includeGroup "curse.maven" }
+    }
+}
 }
 
 dependencies {
