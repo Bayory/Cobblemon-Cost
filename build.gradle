@@ -12,18 +12,14 @@ base {
 
 repositories {
     mavenCentral()
+    maven { url "https://maven.fabricmc.net/" }
     maven {
-    name = "Cobblemon"
-    url = "https://maven.impactdevelopment.org/repository/releases/"
-}
-maven {
-    name = "Cobblemon2"
-    url = "https://oss.sonatype.org/content/repositories/snapshots"
-}
-maven {
-    name = "Jitpack"
-    url = "https://jitpack.io"
-}
+        name = "Cobblemon"
+        url = "https://maven.cobblemon.tech/releases"
+    }
+    maven {
+        name = "Modrinth"
+        url = "https://api.modrinth.com/maven"
     }
 }
 
